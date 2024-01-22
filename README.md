@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # HotelApp
+=======
+# AppointmentApp
+>>>>>>> 427e3441ed06a59997752dfbdbfb098387df602b
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.1.6.
 
